@@ -44,10 +44,13 @@ Puedes encontrar todas las dependencias necesarias en el archivo `requirements.t
 3. **Instalar las dependencias:**
    ```bash
    pip install -r requirements.txt
+   
 ## Uso
-    ```bash
-    python app.py 
 
+**Iniciar la aplicación :**
+  ```bash
+   python app.py
+  ```
 ## Acceder a la interfaz:
 Una vez iniciada la aplicación, puedes acceder a la interfaz de usuario en tu navegador en http://localhost:5000
 
