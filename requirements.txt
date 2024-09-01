@@ -1,0 +1,6 @@
+flask
+torch
+transformers
+whisper
+opencv-python
+networkx
